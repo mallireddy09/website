@@ -1,6 +1,6 @@
 # Mallikarjun Reddy — Portfolio
 
-Personal portfolio site for [Mallikarjun Reddy](https://www.mallikarjun.in/) — Senior Data Engineer & AI/ML Engineer.
+Personal portfolio site for [Mallikarjun Reddy](https://mallikarjunreddy.vercel.app/) — Data Engineer & AI/ML Engineer.
 
 ## Stack
 
