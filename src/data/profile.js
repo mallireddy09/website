@@ -1,10 +1,10 @@
 export const PROFILE = {
   name: "Mallikarjun Reddy",
   email: "mallireddy0912@gmail.com",
-  phone: "+1 716-544-1888",
   location: "United States",
   github: "https://github.com/mallireddy09",
   linkedin: "https://www.linkedin.com/in/mallireddy09/",
+  twitter: "https://x.com/mallireddy09",
   resume:
     "https://drive.google.com/file/d/1UppfWTSqy5KcXqWSr9PwjwqOBsqEcQPK/view?usp=sharing",
   leetcode: "https://leetcode.com/u/mallikarjun09/",
